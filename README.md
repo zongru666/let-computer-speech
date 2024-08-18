@@ -6,3 +6,6 @@
 
 *中文可能会出现电脑读出来的不知道是啥，需要安装语音包*
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/let-computer-speech&type=Timeline)](https://star-history.com/#zongru666/let-computer-speech&Timeline)
