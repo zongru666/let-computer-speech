@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"大家好,我是zongru666"
